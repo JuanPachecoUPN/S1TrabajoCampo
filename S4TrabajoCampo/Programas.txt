@@ -1,0 +1,16 @@
+
+S4TrabajoCampo
+
+Desarrollar un programa en C# que simule el funcionamiento de un cajero
+automático básico. El sistema debe permitir al usuario interactuar con un menú
+que ofrece varias opciones:
+
+• Consultar saldo
+• Retirar dinero
+• Depositar dinero
+• Salir
+
+Además, debe validar los montos y limitar los intentos fallidos.
+
+
+

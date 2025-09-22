@@ -1,2 +1,25 @@
 
-Descripción de los programas
+S2TrabajaoCampo
+
+
+Cada grupo deberá desarrollar en C# los siguientes programas:
+
+Programa 1 – Conversión de temperatura
+Solicitar al usuario una temperatura en grados Celsius y mostrar su
+equivalente en Fahrenheit y Kelvin.
+
+Programa 2 – Promedio de notas
+Pedir 3 notas al estudiante y calcular su promedio. Mostrar si está
+aprobado (≥ 13) o desaprobado (< 13).
+
+Programa 3 – Número par o impar
+Solicitar un número entero y determinar si es par o impar.
+
+Programa 4 – Calculadora básica
+Solicitar dos números y una operación (+, -, *, /). Según la operación
+elegida, mostrar el resultado correspondiente.
+
+Programa 5 – Descuento en compras
+Una tienda ofrece un 15% de descuento si la compra supera los S/ 200.
+Pedir el monto de la compra y mostrar: subtotal, descuento aplicado y
+total a pagar.

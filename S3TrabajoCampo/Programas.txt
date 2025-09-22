@@ -1,0 +1,36 @@
+
+S3TrabajaoCampo
+
+
+Cada grupo deberá desarrollar en C# los siguientes programas:
+
+Programa 1 – Evaluación de salario
+Solicitar el salario mensual de un trabajador y clasificarlo según el rango:
+• Menor a S/ 1200 → “Bajo”
+• Entre S/ 1200 y S/ 2500 → “Medio”
+• Mayor a S/ 2500 → “Alto”
+
+Programa 2 – Menú de figuras geométricas (switch)
+Crear un menú con las siguientes opciones:
+1. Área del cuadrado
+2. Área del triángulo
+3. Área del círculo
+4. Salir
+Según la opción elegida, pedir los datos necesarios y calcular el área.
+
+Programa 3 – Número pares en un rango (for)
+Solicitar dos números enteros (inicio y fin) y mostrar todos los números
+pares que existan en ese rango.
+
+Programa 4 – Suma de factoriales
+Solicitar un número N y calcular la suma de factoriales desde 1! hasta
+N!.
+
+Programa 5 – Calificaciones con condicional anidada
+Pedir tres notas y mostrar el promedio. Según el promedio:
+• Mayor o igual a 17 → “Excelente”
+• Entre 13 y 16 → “Bueno”
+• Entre 10 y 12 → “Regular”
+• Menor a 10 → “Deficiente"
+
+
